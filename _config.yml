@@ -36,6 +36,11 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+# Google services
+google_analytics: UA-161216424-1
+
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
