@@ -1,5 +1,6 @@
 # p-j-r.github.io
 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md) 
 
 Finally a use!
 
@@ -11,6 +12,14 @@ This should be an (exhaustive) list for a **newbie** to start exploring that top
 [TED lectures](https://www.ted.com/) are often very timed and intented for a general audience. 
 [Medium](https://medium.com/) articles, [wikipedia pages](https://wikipedia.org), [arXiv](https://arxiv.org/) preprints etc...
 
+
+
+
+
+[Code of Conduct](https://github.com/p-j-r/p-j-r.github.io/blob/master/CODE_OF_CONDUCT.md)
+----------------------
+
+This project's Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/).
 
 
 
