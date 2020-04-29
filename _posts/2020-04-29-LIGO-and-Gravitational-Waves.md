@@ -18,10 +18,10 @@ Really simple starters and advanced resources in this topic:
 
 * [What are gravitational waves? - Amber L. Stuver](https://youtu.be/hebGhsNsjG0)
 
-* Gravitational waves, black holes: LIGO, a new window on the Universe | TEDxMcGill [ David Shoemaker ](https://youtu.be/gZcKf0ZmWCc)
+* Gravitational waves, black holes: LIGO, a new window on the Universe- TEDxMcGill [ David Shoemaker ](https://youtu.be/gZcKf0ZmWCc)
 
-* Einstein Was Right: Gravitational Waves 101 | TEDxNatick[ Rainer Weiss ](https://youtu.be/x7rjlm4SH5U)
+* Einstein Was Right: Gravitational Waves 101- TEDxNatick [ Rainer Weiss ](https://youtu.be/x7rjlm4SH5U)
 
-* Gravitational Waves: Beyond the First Discoveries | TEDxMIT [ Nergis Mavalvala ](https://youtu.be/l0NybQu8JLk)
+* Gravitational Waves: Beyond the First Discoveries- TEDxMIT [ Nergis Mavalvala ](https://youtu.be/l0NybQu8JLk)
 
 * Listen to Dr. Rainer Weiss give a long speech detailing the efforts of people in the project and the history behind it! [Weiss Nobel Lecture, 2017](https://www.nobelprize.org/prizes/physics/2017/weiss/lecture/)
