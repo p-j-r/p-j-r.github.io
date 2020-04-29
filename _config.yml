@@ -21,8 +21,7 @@
 title: codex inexplicabilis
 email: pauljr1363@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  p-j-r blogs here. 
-  Computational Physics, Arduino, and what not!?
+  The open-source peer-reviewed knowledge base
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
