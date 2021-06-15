@@ -2,6 +2,11 @@
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md) 
 
+
+Currently houses my resume. Earlier home to codex inexplicabilis
+
+***
+
 Finally a use!
 
 So we take a topic (any topic), I'll begin probably with physics, and add free (and open-source?) resources related to that topic. The resources are to be of high-quality, preferably something you'll recommend to friends! Also it's preferred to have **short, to-the-point resources**.
