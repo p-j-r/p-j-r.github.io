@@ -1,0 +1,58 @@
+- layout: top-middle
+  name: Transfer Matrix approach in Quantum Tunneling
+  #link: www.itsgoingto.be
+  #github: sproogen/itsgoingto.be
+  quote: >
+    Ongoing Project
+  description: |
+    Working on tunneling through single and double barriers; and on the Gamow theory of alpha decay.
+
+
+- layout: top-middle
+  name: SWAN Antenna Design Challenge
+  #github: sproogen/modern-resume-theme
+  quote: >
+    Organized by The Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune, India
+  description: |  # 2-3 paras, each of 1.5-2 lines  
+    Designed a novel dual-polarization antenna using Electromagnetic Simulation softwares (FEKO and WIPL-D) operating in broadband frequency 50-500 MHz, in a team of 10 under Dr. Chinkhanlun Guite. 
+    
+    The aim of the challenge was to design a broadband dual-polarization antenna element suitable for astronomical observations at low radio frequencies, which would form the basic element of an electronically steerable array in a combined area of about 1000 sq. m.
+
+- layout: top-middle
+  name: Prof. Nagpaul Fellowship
+  #link: www.itsgoingto.be
+  #github: sproogen/itsgoingto.be
+  quote: >
+    Mathematics Society, St. Stephen's College
+  description: |
+    Studied the Discrete Fourier Transform (DFT) and applied it to the solution of non-linearly perturbed oscillator. Then, we verified the Inverse Transform by matching the composition with the original solution.
+    
+     Additionally, studied correlation functions and its application in Noise Reduction via autocorrelation.
+     
+     This project was in a team of 3 under Mr. Piyush Bansal (Dept. of Mathematics).
+
+- layout: top-middle
+  name: Modelling the spread of COVID-19
+  #link: www.itsgoingto.be
+  github: p-j-r/covid-19
+  quote: >
+    Implementation of epidemiological models for the spread of SARS-CoV-2 novel coronavirus
+  description: |
+    The project started with exploring Stochastic SIR model using the Gillespie algorithm and its comparison with the differential equations modelling. Then, modified the SIR model by adding age-structures and social contact data for the spread of COVID-19 in India. 
+    
+    A random walks model for the the spread of any general pandemic was developed. This used a lattice network to spread the infection (mimicking real-life behaviour) which has the potential to identify hotspots (this was not explored properly). It has been further developed into a network(graph) of multiple clusters(lattices) and tracing the infection in such a population. 
+    
+    Lately, an SIR model with asymptomatic case compartments has been added. This also includes a section on fitting the daily new cases in Italy with a log-normal function.
+
+- layout: top-middle
+  name: Voter Verification System
+  #link: www.itsgoingto.be
+  github: sproogen/itsgoingto.be
+  quote: >
+    Arduino based system for identifying fraudulent voters by scanning unique QR/bar codes.
+  description: |
+    This system can be paired with an EVM-based election environment. The main intention is to eliminate any usage of paper (and other such resources) that is commonly used to verify voters, even in environments where digital machines like EVMs are used. The aim of the project was to use this alongside the existing EVMs in college elections.
+    
+    
+    Feel free to check out other projects on GitHub to have a look at my [work](https://github.com/p-j-r/).
+
