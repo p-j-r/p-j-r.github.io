@@ -1,62 +1,71 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# Site
+repository: p-j-r.github.io
+favicon: images/favicon.ico
 
-title: codex inexplicabilis
+# Content configuration version
+version: 1
+
+# Personal info
+name: Paul Joseph Robin
+title: #Senior Network System Administrator
 email: pauljr1363@outlook.com
-description: >- # this means to ignore newlines until "baseurl:"
-  The open-source peer-reviewed knowledge base
+website: 
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+description: >- # this means to ignore newlines until the first ":"
+  Bio
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
 twitter_username: 
-github_username:  p-j-r
+github_username: p-j-r
+instagram_username: __p.j.r
+linkedin_username: pjr1363
 
-
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-# Google services
+# Google Analytics and Tag Manager
 google_analytics: UA-161216424-1
 
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  I am an undergraduate student in Physics at St. Stephen's College. I enjoy working through the mathematical aspects and exploring various theoretical models. I am comfortable programming in <mark>Python</mark>, <mark>C++</mark> and <mark>Fortran</mark>, and in learning new programming languages.
+  
+  Also familiar with the <mark>Qiskit</mark> framework, I have an active interest in quantum computation and information. Particularly, my interest lies in the foundational details and its near-term impact on combating climate change and developing sustainable materials. 
+  
+
+  
+
+# Education Section
+# educaton_title: Education
+
+# Experience Section
+# experience_title: Experience
+
+# Projects Section
+# projects_title: Projects
 
 
+# More Section
+more_title: Other Interests
+    #layout: text
+more_content: | # this will include new lines to allow paragraphs
+      Some other activities I enjoy:
+      - Reading (With a soft spot for historical fiction)
+      - Ocassionally writing poetry and stories (Check out [*The Cat's Tale*](https://drive.google.com/file/d/1BrXcg-5VbFB12P2Y-WXuaUTrPJlLvQsP/view?usp=sharing), published in [Echo, the journal of Physics Society](https://drive.google.com/file/d/1OPJhxO70YS-j9N2r38UTQnFQRhtGo_eV/view)).
+      - Designing on Canva (Some of which end up with the poetry on [Instagram](https://www.instagram.com/__p.j.r/)).
+      
+# Footer
+footer_show_references: false
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag

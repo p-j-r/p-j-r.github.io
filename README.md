@@ -5,6 +5,8 @@
 
 Currently houses my resume. Earlier home to *codex inexplicabilis*!
 
+The resume format and theme is available under a open-source license from [sproogen](https://github.com/sproogen/jameswgrant) and the asscoiated repo. Due to the changed jekyll theme, codex inexplicabilis has broken and needs to be fixed. 
+
 ***
 
 Finally a use!
