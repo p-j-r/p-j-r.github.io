@@ -1,12 +1,20 @@
-- layout: top-middle
-  name: Transfer Matrix approach in Quantum Tunneling
+#- layout: top-middle
+ # name: Transfer Matrix approach in Quantum Tunneling
   #link: www.itsgoingto.be
   #github: sproogen/itsgoingto.be
+  #quote: >
+   # Ongoing Project
+  #description: |
+   # Working on tunneling through single and double barriers; and on the Gamow theory of alpha decay.
+    
+- layout: top-middle
+  name: Educational Material Development for Quantum Annealing
+  #link: www.itsgoingto.be
+  github: ozlemsalehi/qa-edu
   quote: >
-    Ongoing Project
+    QIntern 2021, QWorld
   description: |
-    Working on tunneling through single and double barriers; and on the Gamow theory of alpha decay.
-
+    Applications of combinatorial optimization problems and their formulations (QUBO, Ising, Higher Order) for simulation on D-Wave annealers, simultaneously preparing open-source materials for educational outreach, led by Dr. Özlem Salehi (IITiS PAN).
 
 - layout: top-middle
   name: SWAN Antenna Design Challenge
