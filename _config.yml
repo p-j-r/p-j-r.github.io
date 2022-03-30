@@ -32,7 +32,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am an undergraduate student in Physics at St. Stephen's College. I enjoy working through the mathematical aspects and exploring various theoretical models. I am comfortable programming in <mark>Python</mark>, <mark>C++</mark> and <mark>Fortran</mark>, and in learning new programming languages.
   
-  Also familiar with the <mark>Qiskit</mark> and the <mark>PennyLane</mark> framework, I have an active interest in quantum computation and information. Particularly, my interest lies in the foundational details and its near-term impact on combating climate change and developing sustainable materials. 
+  Also familiar with the <mark>Qiskit</mark> and the <mark>PennyLane</mark> framework, I have an active interest in quantum computation and information.
   
   Check out this flash fiction [*The Frozen Galaxies*](https://shorts.quantumlah.org/entry/frozen-galaxies), submitted for the Quantum Shorts competition (other links towards the bottom of this page). 
   
