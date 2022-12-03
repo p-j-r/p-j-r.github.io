@@ -20,7 +20,7 @@ darkmode: false
 # Social links
 twitter_username: 
 github_username: p-j-r
-instagram_username: __p.j.r
+#instagram_username: __p.j.r
 linkedin_username: pjr1363
 
 # Google Analytics and Tag Manager
@@ -30,12 +30,15 @@ google_analytics: UA-161216424-1
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am an undergraduate student in Physics at St. Stephen's College. I enjoy working through the mathematical aspects and exploring various theoretical models. I am comfortable programming in <mark>Python</mark>, <mark>C++</mark> and <mark>Fortran</mark>, and in learning new programming languages.
+  I am a master's student in Physics at Sapienza University of Rome, as part of the international [QUAntum Research Master Education Network](https://master-quarmen.eu/). Next semester onwards, I will be studying at University of Paris-Saclay. I did my undergraduate studies in Physics at St. Stephen's College. I enjoy working through the mathematical aspects and exploring various theoretical models. I am comfortable programming in <mark>Python</mark>, <mark>C++</mark> and <mark>Fortran</mark>, and in learning new programming languages.
   
   Also familiar with the <mark>Qiskit</mark> and the <mark>PennyLane</mark> framework, I have an active interest in quantum computation and information.
   
-  Check out this flash fiction [*The Frozen Galaxies*](https://shorts.quantumlah.org/entry/frozen-galaxies), submitted for the Quantum Shorts competition (other links towards the bottom of this page). 
   
+  **SLIDES**: [The Demons and The Second Law](https://drive.google.com/file/d/1ID_4_0dxEo4Bj5Tuzb_Bns3X1yFKZLn0/view?usp=sharing) presented at the Bonn-Cologne Graduate School Admissions Academy.
+  
+    Check out this flash fiction [*The Frozen Galaxies*](https://drive.google.com/file/d/10oqf1QOx5e_fd9TjomZMfKbpcq4hd3EU/view?usp=sharing), submitted for the Quantum Shorts competition (other links towards the bottom of this page). 
+
 
 # Education Section
 # educaton_title: Education
@@ -54,9 +57,9 @@ more_content: | # this will include new lines to allow paragraphs
       Some other activities I enjoy:
       - Reading (With a soft spot for historical fiction)
       - Ocassionally writing poetry and stories Check these out: 
-        - [*The Cat's Tale*](https://drive.google.com/file/d/1BrXcg-5VbFB12P2Y-WXuaUTrPJlLvQsP/view?usp=sharing), published in [Echo, the journal of Physics Society](https://drive.google.com/file/d/1OPJhxO70YS-j9N2r38UTQnFQRhtGo_eV/view))
-        - [*The Frozen Galaxies*](https://shorts.quantumlah.org/entry/frozen-galaxies), submitted for the [Quantum Shorts](https://shorts.quantumlah.org/about) competition. 
-      - Designing on Canva (Some of which end up with the poetry on [Instagram](https://www.instagram.com/__p.j.r/)).
+        - [*The Cat's Tale*](https://drive.google.com/file/d/1-ItR86S-mGT1Kr0U1xPcgZrE-yFOK4qe/view?usp=sharing), published in [Echo, the journal of Physics Society](https://drive.google.com/file/d/1OPJhxO70YS-j9N2r38UTQnFQRhtGo_eV/view))
+        - [*The Frozen Galaxies*](https://drive.google.com/file/d/10oqf1QOx5e_fd9TjomZMfKbpcq4hd3EU/view?usp=sharing), submitted for the [Quantum Shorts](https://shorts.quantumlah.org/about) competition. 
+      - Designing on Canva.
       
 # Footer
 footer_show_references: false
