@@ -30,7 +30,7 @@ google_analytics: UA-161216424-1
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a master's student in Physics at Sapienza University of Rome, as part of the international [QUAntum Research Master Education Network](https://master-quarmen.eu/). Next semester onwards, I will be studying at University of Paris-Saclay. I did my undergraduate studies in Physics at St. Stephen's College. I enjoy working through the mathematical aspects and exploring various theoretical models. I am comfortable programming in <mark>Python</mark>, <mark>C++</mark> and <mark>Fortran</mark>, and in learning new programming languages.
+  I am a master's student in Physics at University of Paris-Saclay, as part of the international [QUAntum Research Master Education Network](https://master-quarmen.eu/). As part of the program, I spent my first semester at Sapienza University of Rome. I did my undergraduate studies in Physics at St. Stephen's College. I enjoy working through the mathematical aspects and exploring various theoretical models. I am comfortable programming in <mark>Python</mark>, <mark>C++</mark> and <mark>Fortran</mark>, and in learning new programming languages.
   
   Also familiar with the <mark>Qiskit</mark> and the <mark>PennyLane</mark> framework, I have an active interest in quantum computation and information.
   
